@@ -23,14 +23,15 @@ A passionate Fullstack Developer student from Indonesia
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rioprmn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rioprmn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rioprmn&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rioprmn&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rioprmn&theme=tokyonight&column=6&no-bg=true&no-frame=true" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rioprmn&theme=tokyonight&column=6&no-bg=true" width="800" />
 </p>
+
 ---
 
 ### 🌐 Connect with me
