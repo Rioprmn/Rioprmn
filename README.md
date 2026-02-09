@@ -9,14 +9,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/coding.gif" width="450" />
-</p>
-
-
-
-
-
 ---
 
 ## 👨‍💻 About Me
