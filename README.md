@@ -52,13 +52,10 @@ Some repositories I’ve built and worked on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rioprmn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rioprmn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="420" />
-</p>
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rioprmn&theme=react-dark&hide_border=true&bg_color=0D1117&line=58A6FF&point=FFFFFF" />
+  <img src="https://metrics.lecoq.io/Rioprmn?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&config.timezone=Asia/Jakarta" />
 </p>
 
 ---
