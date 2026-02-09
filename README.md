@@ -50,11 +50,17 @@ Some repositories I’ve built and worked on:
 
 ---
 
-## 🔥 Coding Streak
+## 📈 GitHub Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rioprmn&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rioprmn&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rioprmn&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rioprmn&theme=github_dark" />
+</p>
+
 
 
 <p align="center">
