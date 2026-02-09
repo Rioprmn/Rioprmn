@@ -4,10 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
-<p align="center">
-  <img src="https://github.com/platane/gh-space-shooter/raw/master/assets/space-shooter.gif" width="600" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -57,8 +53,12 @@ Some repositories I’ve built and worked on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rioprmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rioprmn&theme=tokyonight&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rioprmn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rioprmn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rioprmn&theme=react-dark&hide_border=true&bg_color=0D1117&line=58A6FF&point=FFFFFF" />
 </p>
 
 ---
