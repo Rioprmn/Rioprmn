@@ -58,6 +58,13 @@ Here are some repositories I’ve built or worked on — check them out 👇
 
 ---
 
+<p align="center">
+  <img src="https://github.com/platane/gh-space-shooter/raw/master/assets/space-shooter.gif" width="600" />
+</p>
+
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
