@@ -4,7 +4,7 @@ A passionate Fullstack Developer student from Indonesia
 ![Visitors](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dm5id2V3Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVtoG6O3iLp2H5/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/Rioprmn/Rioprmn/main/pixel-art.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6bmZ6ZnczenZ6ZnczenZ6ZnczenZ6ZnczenZ6ZnczenZ6ZnczenZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVtoG6O3iLp2H5/giphy.gif'" width="600">
 </p>
 
 ### 👤 About Me
@@ -42,5 +42,3 @@ A passionate Fullstack Developer student from Indonesia
 </p>
 
 * 🎮 **Discord**: `rio0217`
-
----
