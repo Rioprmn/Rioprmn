@@ -1,43 +1,63 @@
-# Hi there ⚡, I'm Rio Permana 👋  
-### 🚀 Fullstack Developer Student from Indonesia 🇮🇩  
+# Hello World 👋, I'm **Rio Permana (Rio)**
+
+### 🚀 Fullstack Developer Student | Passionate Builder | Problem Solver
 
 ![Visitors](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dm5id2V3Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVtoG6O3iLp2H5/giphy.gif" width="600" alt="Pixel Art Coding" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dm5id2V3Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVtoG6O3iLp2H5/giphy.gif" width="600" alt="Coding Animation" />
 </p>
 
 ---
 
-## 👤 About Me
-I'm a **passionate Fullstack Developer student** who loves building web applications and exploring new technologies.  
-Currently focusing on **clean code**, **modern UI**, and **scalable systems**.
+## 👨‍💻 About Me
 
-- 🎓 **Status**: Student  
-- 📚 **Currently Learning**: Fullstack Development  
-- 📍 **Based in**: Indonesia  
+I'm a **Fullstack Developer student from Indonesia 🇮🇩** passionate about creating real software — from backend logic to user interface design.
+
+- 🎓 **Status:** Student  
+- 🛠️ **Focus Areas:** Web & Mobile Development  
+- 📍 **Location:** Bandung, Indonesia  
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🧰 Tech Stack & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,dart,figma,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,cpp,dart,figma,vscode,git&theme=dark" />
 </p>
 
-🖌️ **Design Tools**:  
-- Canva (for creative & visual content)
+📌 I also use **Canva** for visual & UI design projects!  
+
+---
+
+## 📦 Highlighted Projects
+
+Here are some repositories I’ve built or worked on — check them out 👇
+
+### 🏷️ Web Development
+- **Project_laravel_Kasir** – Laravel & Blade based cashier system  
+- **projek_testoko_web** – PHP web app  
+- **web_pentest** – PHP / penetration testing practice
+
+### 💻 Academic / Student Projects
+- **UTS_PBO2_TIF-23-CNS-A_23552011057** – Java project for Object-Oriented Programming  
+- **UTS_Pemrograman_Mobile** – C++ based mobile programming task
+
+*(More projects on my GitHub → scroll further down!)*
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rioprmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rioprmn&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rioprmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rioprmn&theme=tokyonight&hide_border=true" width="420" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/rio-permana-151540266/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -50,8 +70,8 @@ Currently focusing on **clean code**, **modern UI**, and **scalable systems**.
 </a>
 </p>
 
-🎮 **Discord**: `rio0217`
+🎮 **Discord:** `rio0217`
 
 ---
 
-✨ *Always learning, always building, and always improving.*
+✨ *Keep learning, building, and improving.*  
