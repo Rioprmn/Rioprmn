@@ -28,28 +28,6 @@ I like learning by **building projects**, breaking things, fixing them, and maki
 
 ---
 
-## 📦 Highlighted Projects
-
-Some repositories I’ve built and worked on:
-
-### 🏷️ Web Development
-- **Project_laravel_Kasir**  
-  Laravel & Blade based cashier system  
-- **projek_testoko_web**  
-  PHP-based web application  
-- **web_pentest**  
-  PHP & basic penetration testing practice  
-
-### 🎓 Academic / Student Projects
-- **UTS_PBO2_TIF-23-CNS-A_23552011057**  
-  Java – Object-Oriented Programming project  
-- **UTS_Pemrograman_Mobile**  
-  C++ based mobile programming assignment  
-
-👉 *More projects available on my GitHub repositories.*
-
----
-
 ## 📈 GitHub Summary
 
 <p align="center">
