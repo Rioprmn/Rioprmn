@@ -5,7 +5,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/coding.gif" width="480" />
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/Developer.gif" width="480" />
 </p>
 
 
