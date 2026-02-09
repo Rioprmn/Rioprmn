@@ -5,8 +5,9 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="450" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/night-coding.gif" width="450" />
 </p>
+
 
 ---
 
