@@ -27,10 +27,6 @@ A passionate Fullstack Developer student from Indonesia
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rioprmn&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rioprmn&theme=tokyonight&column=6&no-bg=true" width="800" />
-</p>
 
 ---
 
