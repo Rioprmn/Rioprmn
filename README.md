@@ -3,8 +3,9 @@
 ### 🚀 Fullstack Developer Student | Passionate Builder | Problem Solver
 
 ![Visitors](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/coding.gif" width="450" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="450" />
 </p>
 
 ---
