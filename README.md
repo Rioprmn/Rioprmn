@@ -5,8 +5,13 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/Assets/Night-Coding.gif" width="450" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Student;Laravel+%7C+PHP+%7C+Java;Building+Real+Projects" />
+</p>
+
 
 
 ---
