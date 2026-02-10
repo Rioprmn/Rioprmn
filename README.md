@@ -4,6 +4,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FmMWN5eWszY3RoMno3MWd2aGFhdDU2ZTFjem82eXk1c3lsamZncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sULKEgDMX8LcI/giphy.gif" width="600" alt="Pixel Art Welcome">
+</p>
+
+<h1 align="center">Wellcome! 🚀</h1>
 ---
 
 ## 👨‍💻 About Me
