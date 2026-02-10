@@ -5,10 +5,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rioprmn&color=0077ff&style=flat-square)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FmMWN5eWszY3RoMno3MWd2aGFhdDU2ZTFjem82eXk1c3lsamZncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sULKEgDMX8LcI/giphy.gif" width="600" alt="Pixel Art Welcome">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E0MnExcnQ5d2YzeTcyamk4MWI0b2Q4eWp2bGVsbHZmc3Vzcm5layZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="1000" alt="Pixel Art Welcome">
 </p>
 
-<h1 align="center">Wellcome! 🚀</h1>
 ---
 
 ## 👨‍💻 About Me
