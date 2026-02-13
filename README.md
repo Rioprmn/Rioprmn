@@ -45,9 +45,7 @@ I like learning by **building projects**, breaking things, fixing them, and maki
 
 
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Rioprmn?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&config.timezone=Asia/Jakarta" />
-</p>
+
 
 ---
 
